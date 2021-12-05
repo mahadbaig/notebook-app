@@ -1,0 +1,27 @@
+.task-completed{
+    color: gray;
+    text-decoration: line-through;
+}
+
+#cards-to-be-added{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    
+}
+
+.card-custom{
+    margin: 10px !important;
+    padding: 10px;
+}
+
+.myButton{
+    margin-right: 15px;
+    color: black;
+    cursor: pointer;
+}
+
+.uncheck{
+    text-decoration: none;
+    color: black;
+}
